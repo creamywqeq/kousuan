@@ -1,0 +1,23 @@
+mycode-oa-backend/
+├── src/
+│   ├── controllers/
+│   │   ├── problemController.js    # 题目相关控制器
+│   │   ├── practiceController.js   # 练习相关控制器
+│   │   └── analysisController.js   # 分析相关控制器
+│   ├── models/
+│   │   ├── problem.js              # 题目模型
+│   │   ├── practice.js             # 练习记录模型
+│   │   └── user.js                 # 用户模型
+│   ├── services/
+│   │   ├── problemGenerator.js     # 题目生成服务
+│   │   ├── fileHandler.js          # 文件导入导出服务
+│   │   └── analysisService.js      # 数据分析服务
+│   ├── utils/
+│   │   ├── mathUtils.js           # 数学计算工具
+│   │   └── validators.js          # 数据验证工具
+│   └── routes/
+│       ├── problemRoutes.js       # 题目相关路由
+│       ├── practiceRoutes.js      # 练习相关路由
+│       └── analysisRoutes.js      # 分析相关路由
+├── package.json
+└── server.js 

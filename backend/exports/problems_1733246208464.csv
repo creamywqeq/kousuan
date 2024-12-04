@@ -1,0 +1,11 @@
+NUM1,NUM2,OPERATION,ANSWER,GRADE,DIFFICULTY
+1,1,-,0,1,medium
+6,6,-,0,1,medium
+11,8,-,3,1,medium
+9,1,-,8,1,medium
+20,19,-,1,1,medium
+17,1,-,16,1,medium
+10,5,+,15,1,medium
+10,5,+,15,1,medium
+10,10,-,0,1,medium
+10,4,-,6,1,medium
